@@ -1,0 +1,1 @@
+This is my first project. I hope to learn the fundamentals of web development with this first project.
