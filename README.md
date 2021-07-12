@@ -1,1 +1,1 @@
-This is my first project. I hope to learn the fundamentals of web development with this first project.
+This is my first project. I hope to learn the fundamentals of web development with this first project. The skills i will learn will include being more comfortable with the git flow and terminal usage.
