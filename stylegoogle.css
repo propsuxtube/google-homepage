@@ -1,0 +1,17 @@
+.center{
+    position: relative;
+    top:0px;
+    left:520px;
+}
+.searchbar{
+    padding:5px;
+    width:50%;
+    position:relative;
+    left:350px;
+    border-radius:10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
