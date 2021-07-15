@@ -26,3 +26,12 @@ li {
     display: block;
     padding: 8px;
   }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+  }
